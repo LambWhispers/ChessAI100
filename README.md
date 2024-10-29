@@ -1,1 +1,1 @@
-# This is a WIP Project that I am rambling.
+# This is a WIP Project that I am working on.
